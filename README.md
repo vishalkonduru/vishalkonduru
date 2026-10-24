@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Konduru Vishal Varma 👋</h1>
-  <h3>DevOps & Cloud Engineer | Containerization, CI/CD & Infrastructure Automation</h3>
+  <h3>Aspiring DevOps Engineer</h3>
   
   <p>
     <a href="mailto:vishalkonduru777@gmail.com">
@@ -18,9 +18,9 @@
 ---
 
 ### 🚀 About Me
-- 🎓 *3rd-Year B.Tech Student* specializing in *DevOps* at *Presidency University*.
-- ⚙️ Hands-on experience with *Containerization*, managing *CI/CD*, and automating infrastructure.
-- 💼 *Open to DevOps, Cloud, and SRE Internship opportunities!*
+- 🎓 *3rd-Year B.Tech Student* specializing in **DevOps** at **Presidency University**.
+- ⚙️ Hands-on experience with **Linux**, **Containerization**, and  managing **CI/CD**
+- 💼 *Open to DevOps and SRE Internship opportunities!*
 
 ---
 
