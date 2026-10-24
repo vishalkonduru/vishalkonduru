@@ -7,7 +7,7 @@
       <img src="https://img.shields.io/badge/Email-vishalkonduru777%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://www.linkedin.com/in/vishal-varma-4b379a290/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-85%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/vishalkonduru">
       <img src="https://img.shields.io/github/followers/vishalkonduru?label=Follow&style=for-the-badge&logo=github" alt="GitHub Followers" />
