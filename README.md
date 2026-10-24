@@ -35,11 +35,11 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vishalkonduru&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Vishal's GitHub Stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=vishalkonduru&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://ghchart.rshah.org/216e39/vishalkonduru" alt="Vishal's Contribution Graph" />
 </div>
 
 <div align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=vishalkonduru&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkonduru&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,jupyter%20notebook" alt="Top Languages" />
 </div>
 
